@@ -17,4 +17,8 @@ Controls are simple and user-friendly—users can change polish colors from a qu
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ab43aaab-b176-43db-b6f0-836aac6d237a)
 
+![Image](https://github.com/user-attachments/assets/190a8dab-1861-467e-a18b-c2901dd12337)
+
+![Image](https://github.com/user-attachments/assets/b0442f2f-6d50-49a7-bb2d-1c7f00da3354)
